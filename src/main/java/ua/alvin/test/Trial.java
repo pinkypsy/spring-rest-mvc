@@ -1,7 +1,10 @@
 package ua.alvin.test;
 
 import ua.alvin.entity.Student;
+<<<<<<< HEAD
 import ua.alvin.exception.OutOfBoundsExceptionToJson;
+=======
+>>>>>>> win
 
 public class Trial {
     public static void main(String[] args) {
